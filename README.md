@@ -12,6 +12,6 @@ AngularJS Directive for a Tri State Checkbox.
     JAVASCRIPT
     $scope.checkbox =  {isSelected: null}; 
     
-#true = Checked,
-#false = Unchecked, 
-#null = Indeterminate, 
+#true = Checked
+#false = Unchecked
+#null = Indeterminate
